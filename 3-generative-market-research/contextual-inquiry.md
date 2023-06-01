@@ -9,6 +9,7 @@
 Bro Updating is confirmed. 
 NEW UPDATE 1.
 New update 2.
+New update 3.
 Contextual inquiry is a combination of semi-structured interviews and observations done in the actual location where the problem occurs or the solution will be used. This method avoids hypothetical statements and helps reveal knowledge that the customer may have but is unaware of and thus unable to communicate in a traditional interview. It may also reveal substitute products, competitors, or workarounds that will help define the optimal solution.
 
 ### Helps Answer
